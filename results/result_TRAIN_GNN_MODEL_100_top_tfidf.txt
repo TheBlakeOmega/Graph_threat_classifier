@@ -1,0 +1,6 @@
+Trained model result:
+Loss: 0.57
+Accuracy: 0.6759
+Val Loss: 0.5669
+Val Accuracy: 0.6732
+Train time: 0 days 0 hours 4 minutes 38 seconds 584 milliseconds

@@ -1,0 +1,15 @@
+Test confusion matrix:
+[[66 34]
+ [11 89]]
+Test classification report:
+              precision    recall  f1-score   support
+
+           0      0.857     0.660     0.746       100
+           1      0.724     0.890     0.798       100
+
+    accuracy                          0.775       200
+   macro avg      0.790     0.775     0.772       200
+weighted avg      0.790     0.775     0.772       200
+
+Test computation time:
+46441651 microseconds
